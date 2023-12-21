@@ -33,7 +33,7 @@ http://aniroomi-env.eba-rj7upyms.ap-northeast-2.elasticbeanstalk.com/
             </a>
         </td>
         <td style="min-width: 150px;">
-            <a href="https://github.com/BaeSooMin">
+            <a href="https://github.com/sumsum07">
               <b>배수민</b>
             </a>
         </td>
