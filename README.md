@@ -1,7 +1,8 @@
 ## 캡스톤 디자인1 2023-2 - 룸메이트 매칭 서비스[ANIROOMIE]
 ![image 351](https://github.com/Capstone-2023-2/.github/assets/81398185/c785e12e-9e39-4021-a9d2-20d5d1020ea1)
 
-
+<br>
+<br>
 
 ## 🏠OUR PROJECT
 
@@ -14,12 +15,14 @@
 
 이러한 번거로움을 덜고, 조금 더 수월하게 룸메이트를 구할 수 있게 하고자 `룸메이트 추천 서비스` `Aniroomi`를 탄생시켰습니다! 🥳
 
-
+<br>
+<br>
 
 ## 🚀 Distribution
-(http://aniroomi-env.eba-rj7upyms.ap-northeast-2.elasticbeanstalk.com/)
+http://aniroomi-env.eba-rj7upyms.ap-northeast-2.elasticbeanstalk.com/
 
-
+<br>
+<br>
 
 ## 👥TEAM MEMBER
 <table>
@@ -54,7 +57,8 @@
 </table>
 <br/><br/>
 
-
+<br>
+<br>
 
 ## 🎖️ Stacks 
 ### Front-End
@@ -68,8 +72,9 @@
 
 ### Environment
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-
-
+ 
+<br>
+<br>
 
 ## 🤝 RULES
 ### All Rules are [here](./Rules.md).
