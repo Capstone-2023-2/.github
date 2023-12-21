@@ -15,8 +15,10 @@
 이러한 번거로움을 덜고, 조금 더 수월하게 룸메이트를 구할 수 있게 하고자 `룸메이트 추천 서비스` `Aniroomi`를 탄생시켰습니다! 🥳
 
 
+
 ## 🚀 Distribution
 (http://aniroomi-env.eba-rj7upyms.ap-northeast-2.elasticbeanstalk.com/)
+
 
 
 ## 👥TEAM MEMBER
@@ -52,18 +54,22 @@
 </table>
 <br/><br/>
 
+
+
 ## 🎖️ Stacks 
 ### Front-End
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white?"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
 ### Back-End
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/elastic-#005571?style=for-the-badge&logo=elastic&logoColor=white"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"> 
 
 ### AI
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white?"> 
 
 ### Environment
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+
 
 ## 🤝 RULES
 ### All Rules are [here](./Rules.md).
